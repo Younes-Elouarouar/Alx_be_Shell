@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 9-John_Doe
+chmod u+rwx g+rx o+wx hello
